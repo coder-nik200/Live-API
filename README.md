@@ -1,7 +1,5 @@
 # Live-API
 
-# Live_API
-
 A backend API project built with **Node.js**, **Express**, and **MongoDB**.  
 This repository provides a foundation for building scalable RESTful APIs with authentication, CRUD operations, and database integration.
 
